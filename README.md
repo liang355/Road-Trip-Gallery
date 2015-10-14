@@ -1,3 +1,3 @@
 # Road-Trip-Gallery
-Simple Javascript gallery using HTML Spoilerplate
+Simple Javascript gallery using HTML5 Spoilerplate
 
